@@ -6,7 +6,7 @@
   },
   { "order": 2, "file": "02-the-call.md", "title": "From chat to work" },
   { "order": 3, "file": "03-a-paradigm-shift.md", "title": "A paradigm shift" },
-  { "order": 4, "file": "04-six-tools-on-the-table.md", "title": "Six tools on the table" },
+  { "order": 4, "file": "04-six-tools-on-the-table.md", "title": "Eight tools on the table" },
   { "order": 5, "file": "05-layer-1-agent.md", "title": "The Agent — a job description" },
   {
     "order": 6,
@@ -25,36 +25,63 @@
     "file": "10-layer-6-outcomes.md",
     "title": "Outcomes — replace the back-and-forth"
   },
-  { "order": 11, "file": "11-async-webhooks.md", "title": "Webhooks — call me when it's done" },
-  { "order": 12, "file": "12-permissions.md", "title": "Permissions — how much rope?" },
-  { "order": 13, "file": "13-a-crew-not-a-soloist.md", "title": "A crew, not a soloist" },
   {
-    "order": 14,
-    "file": "14-steve-ships-campaigns.md",
-    "title": "Steve ships a week of campaigns over the weekend"
+    "order": 11,
+    "file": "11-layer-7-sandboxes.md",
+    "title": "Sandboxes — your kitchen, their chef"
   },
-  { "order": 15, "file": "15-what-just-changed.md", "title": "What just changed" },
+  {
+    "order": 12,
+    "file": "12-layer-8-mcp-connector.md",
+    "title": "MCP Connector — the universal adapter"
+  },
+  { "order": 13, "file": "13-async-webhooks.md", "title": "Webhooks — call me when it's done" },
+  { "order": 14, "file": "14-permissions.md", "title": "Permissions — how much rope?" },
+  { "order": 15, "file": "15-a-crew-not-a-soloist.md", "title": "A crew, not a soloist" },
   {
     "order": 16,
-    "file": "16-ten-patterns-ship-monday.md",
+    "file": "16-steve-ships-campaigns.md",
+    "title": "Steve ships a week of campaigns over the weekend"
+  },
+  { "order": 17, "file": "17-what-just-changed.md", "title": "What just changed" },
+  {
+    "order": 18,
+    "file": "18-ten-patterns-ship-monday.md",
     "title": "Ten patterns you can ship Monday"
   },
   {
-    "order": 17,
-    "file": "17-research-and-extraction.md",
+    "order": 19,
+    "file": "19-research-and-extraction.md",
     "title": "Turn information into answers"
   },
-  { "order": 18, "file": "18-marketing-and-ops.md", "title": "Ship the recurring work" },
-  { "order": 19, "file": "19-customer-and-revenue.md", "title": "Closer to the customer" },
+  { "order": 20, "file": "20-marketing-and-ops.md", "title": "Ship the recurring work" },
+  { "order": 21, "file": "21-customer-and-revenue.md", "title": "Closer to the customer" },
   {
-    "order": 20,
-    "file": "20-spotlight-social-asset-generator.md",
+    "order": 22,
+    "file": "22-spotlight-social-asset-generator.md",
     "title": "Social Asset Generator — the full template"
   },
   {
-    "order": 21,
-    "file": "21-leaving-with-a-workforce.md",
+    "order": 23,
+    "file": "23-leaving-with-a-workforce.md",
     "title": "You're leaving with a workforce."
   },
-  { "order": 22, "file": "22-demo.md", "title": "Demo" }
+  {
+    "order": 24,
+    "file": "24-claude-api-onramp.md",
+    "title": "/claude-api — the docs write the code"
+  },
+  { "order": 25, "file": "25-demo.md", "title": "Demo" },
+  { "order": 26, "file": "26-introducing-braid.md", "title": "Introducing BRAID" },
+  { "order": 27, "file": "27-braid-what-it-is.md", "title": "What BRAID is" },
+  {
+    "order": 28,
+    "file": "28-braid-commands.md",
+    "title": "Six commands"
+  },
+  {
+    "order": 29,
+    "file": "29-braid-templates-and-hooks.md",
+    "title": "Templates, examples, and host-side hooks"
+  }
 ]

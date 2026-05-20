@@ -1,5 +1,5 @@
 ---
-order: 20
+order: 22
 variant: content
 topic: "Spotlight"
 title: "Social Asset Generator — the full template"

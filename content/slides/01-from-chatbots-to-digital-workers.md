@@ -6,4 +6,4 @@ title: "From Chatbots to Digital Workers"
 
 # From Chatbots to **Digital Workers**
 
-Building Autonomous Infrastructure with Computer Science Principles
+Building Autonomous Infrastructure with Claude Managed Agents

@@ -1,5 +1,5 @@
 ---
-order: 18
+order: 20
 variant: content
 topic: "Group 2 — Marketing & Ops"
 title: "Ship the recurring work"

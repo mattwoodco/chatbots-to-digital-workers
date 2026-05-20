@@ -1,5 +1,5 @@
 ---
-order: 19
+order: 21
 variant: content
 topic: "Group 3 — Customer & Revenue"
 title: "Closer to the customer"

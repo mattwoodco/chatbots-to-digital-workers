@@ -1,5 +1,5 @@
 ---
-order: 21
+order: 23
 variant: title
 title: "You're leaving with a workforce."
 ---

@@ -8,18 +8,18 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://managed-agents.mattwood.co'),
   title: 'From Chatbots to Digital Workers',
   description:
-    'Building Autonomous Infrastructure with Computer Science Principles — a deck on moving from chat to work.',
+    'Building Autonomous Infrastructure with Claude Managed Agents — a deck on moving from chat to work.',
   icons: { icon: '/favicon.png' },
   openGraph: {
     title: 'From Chatbots to Digital Workers',
-    description: 'Building Autonomous Infrastructure with Computer Science Principles.',
+    description: 'Building Autonomous Infrastructure with Claude Managed Agents.',
     images: [{ url: ogImage }],
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
     title: 'From Chatbots to Digital Workers',
-    description: 'Building Autonomous Infrastructure with Computer Science Principles.',
+    description: 'Building Autonomous Infrastructure with Claude Managed Agents.',
     images: [ogImage],
   },
 }

@@ -1,5 +1,5 @@
 ---
-order: 16
+order: 18
 variant: content
 topic: "Take this with you"
 title: "Ten patterns you can ship Monday"

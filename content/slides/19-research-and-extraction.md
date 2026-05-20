@@ -1,5 +1,5 @@
 ---
-order: 17
+order: 19
 variant: content
 topic: "Group 1 — Research & Extraction"
 title: "Turn information into answers"

@@ -1,12 +1,13 @@
 import { getSlides } from '@/lib/slides'
 import { SlideCounter } from './slide-counter'
+import { SlideScrubber } from './slide-scrubber'
 
 export default async function Page() {
   const slides = await getSlides()
   return (
     <>
       <div className="bg-grid" aria-hidden />
-      <img className="deck-logo" src="/gauntlet-logo.png" alt="" aria-hidden />
+      {/* <img className="deck-logo" src="/gauntlet-logo.png" alt="" aria-hidden /> */}
       <main className="deck">
         {slides.map((slide) => (
           <section
@@ -26,6 +27,7 @@ export default async function Page() {
         ))}
       </main>
       <SlideCounter total={slides.length} />
+      <SlideScrubber />
     </>
   )
 }
